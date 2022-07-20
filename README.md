@@ -1,2 +1,2 @@
-# flappying
-Created with CodeSandbox
+## Clicker
+- when do script than flappy.

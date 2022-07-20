@@ -1,0 +1,20 @@
+h1 {
+  padding: inherit;
+  padding-left: inherit;
+  padding-top: inherit;
+  padding-bottom: 3pt;
+  display: block;
+  cursor: default;
+  position: absolute;
+  left: 230px;
+  top: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img.player {
+  position: absolute;
+  left: 0px;
+  top: 400px;
+  width: 70px;
+  height: 70px;
+}
